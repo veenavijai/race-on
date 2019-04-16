@@ -3,10 +3,7 @@
 Repository of Self Driving RC Car Stinger
 
 Video:
-
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/ZWatCIyyhi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+[![Everything Is AWESOME](https://img.youtube.com/vi/ZWatCIyyhi4/0.jpg)](https://youtu.be/ZWatCIyyhi4)
 
 Preliminary steps to begin with
 
