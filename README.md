@@ -2,8 +2,7 @@
 
 Repository of Self Driving RC Car Stinger
 
-Video:
-[![Everything Is AWESOME](https://img.youtube.com/vi/ZWatCIyyhi4/0.jpg)](https://youtu.be/ZWatCIyyhi4)
+[![Everything Is AWESOME](stinger.jpg)](https://youtu.be/ZWatCIyyhi4)
 
 Preliminary steps to begin with
 
