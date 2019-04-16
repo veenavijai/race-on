@@ -2,7 +2,13 @@
 
 Repository of Self Driving RC Car Stinger
 
-Preliminary steps to start the program
+Video:
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/ZWatCIyyhi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+Preliminary steps to begin with
 
 1. SSH into the Pi<br/>
 <code>ssh pi@raspberrypi.local</code>
