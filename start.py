@@ -11,10 +11,6 @@ pwm0.enable = True
 pwm1.enable = True
 pwm1_ref = 1465000
 pwm1.duty_cycle = pwm1_ref
-
-
 # In[6]:
-
-
 pwm_s = 1200000
 pwm0.duty_cycle = pwm_s
