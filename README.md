@@ -2,7 +2,7 @@
 
 Repository of Self Driving RC Car Stinger
 
-[![Everything Is AWESOME](stinger.jpg)](index.html)
+[![Everything Is AWESOME](stinger.jpg)](https://shyam31896.github.io/raceon-stinger/index.html)
 Preliminary steps to begin with
 
 1. SSH into the Pi<br/>
