@@ -1,7 +1,6 @@
 # Self-driving Car
 
-This repository documents the self-driving car we assembled and programmed to compete in USC Viterbi's [Race On]
-(https://minghsiehece.usc.edu/race-on/) competition in April 2019. 
+This repository documents the self-driving car we assembled and programmed to compete in USC Viterbi's [Race On](https://minghsiehece.usc.edu/race-on/) competition in April 2019. 
 
 **About Race On**
 
