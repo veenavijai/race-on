@@ -1,9 +1,9 @@
-# Stinger
+# Self-driving Car
 
-Repository of Self Driving RC Car Stinger
+This repository documents the self-driving car we assembled and programmed to compete in USC Viterbi's [Race On]
+(https://minghsiehece.usc.edu/race-on/) competition in April 2019.
 
-[![Stinger](images/stinger.jpg)](https://shyam31896.github.io/raceon-stinger/index.html)
-Preliminary steps to begin with
+**Preliminary steps**
 
 1. SSH into the Pi<br/>
 <code>ssh pi@raspberrypi.local</code>
@@ -22,3 +22,11 @@ Preliminary steps to begin with
 
 6. Run the car<br/>
 <code>python run.py</code>
+
+**Team**
+Kriti Jain
+Prahalathan Sundaramoorthy
+Shyam S Ravikumar
+Veena Vijai
+
+
