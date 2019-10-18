@@ -24,9 +24,10 @@ This repository documents the self-driving car we assembled and programmed to co
 <code>python run.py</code>
 
 **Team**
-Kriti Jain
-Prahalathan Sundaramoorthy
-Shyam S Ravikumar
+
+Kriti Jain\
+Prahalathan Sundaramoorthy\
+Shyam S Ravikumar\
 Veena Vijai
 
 
