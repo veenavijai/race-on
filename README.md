@@ -4,7 +4,7 @@ This repository documents the self-driving car we assembled and programmed to co
 
 **About Race On**
 
-Race On is an event organized by the Ming Hsieh Department of Electrical Engineering at USC. It is directed primarily towards graduate students who were interested in practically applying concepts in image processing and control systems. The competition attracted participation from 42 teams, of which ours placed 8th.
+Race On is an event organized by the Ming Hsieh Department of Electrical Engineering at USC. It is directed primarily towards graduate students who were interested in practically applying concepts in image processing and control systems. The competition attracted participation from 43 teams, of which ours placed 8th.
 
 **Track**
 
